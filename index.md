@@ -101,6 +101,8 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
+This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills. The workshop will only be held for 10 people at a time.
+
 {% comment %}
 LOCATION
 
@@ -166,7 +168,8 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
-
+ 
+ 
 {% comment %}
 ACCESSIBILITY
 
