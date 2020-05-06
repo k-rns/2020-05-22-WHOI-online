@@ -79,6 +79,14 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
+Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you 
+
+* http://swcarpentry.github.io/python-novice-gapminder/
+* https://github.com/WHOIGit/pandas-talk
+* https://datacarpentry.org/python-ecology-lesson/
+
+
+
 {% comment %}
 AUDIENCE
 
