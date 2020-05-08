@@ -94,7 +94,7 @@ The workshop will only be held for 10 people at a time.
 
 {% comment %}
 LOCATION
-{% endcomment % }
+{% endcomment %}
 
 This is a course for Woods Hole Oceanographic Institution that will be tought on-line
 
