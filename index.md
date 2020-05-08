@@ -51,24 +51,11 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% comment %}
 INTRODUCTION
 
-
 Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you  
 
 * http://swcarpentry.github.io/python-novice-gapminder/
 * https://github.com/WHOIGit/pandas-talk
 * https://datacarpentry.org/python-ecology-lesson/
-
-Edit the general explanatory paragraph below if you want to change
-the pitch.
-{% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/intro.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/intro.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/intro.html %}
-{% endif %}
-
 
 
 
