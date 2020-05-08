@@ -63,10 +63,12 @@ Data wrangling of tables using python and the pandas package: Workshops always h
 
 {% comment %}
 AUDIENCE
-
 # Explain who your audience is.  (In particular, tell readers if the
 # workshop is only open to people from a particular institution.
 # {% endcomment %}
+
+This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills. The workshop will only be held for 10 people at a time.
+
 # {% if site.carpentry == "swc" %}
 # {% include swc/who.html %}
 # {% elsif site.carpentry == "dc" %}
@@ -75,10 +77,11 @@ AUDIENCE
 # {% include lc/who.html %}
 # {% endif %}
 
-This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills. The workshop will only be held for 10 people at a time.
+
 
 {% comment %}
 LOCATION
+{% endcomment % }
 This is a course for Woods Hole Oceanographic Institution that will be tought on-line
 
 
