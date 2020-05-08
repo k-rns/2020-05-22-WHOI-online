@@ -85,7 +85,7 @@ start_time: 585
 # Specify that things in the episodes collection should be output.
 collections:
   episodes:
-    output: false
+    output: true
     permalink: /:path/index.html
   extras:
     output: true
@@ -118,4 +118,4 @@ exclude:
 # Turn on built-in syntax highlighting.
 highlighter: rouge
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
