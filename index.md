@@ -24,7 +24,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %}
 HEADER
-
 Edit the values in the block above to be appropriate for your workshop.
 If the value is not 'true', 'false', 'null', or a number, please use
 double quotation marks around the value, unless specified otherwise.
@@ -53,6 +52,7 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
+
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
@@ -101,9 +101,9 @@ This is a course for Woods Hole Oceanographic Institution that will be tought on
 
 {% comment %}
 DATE
-
 This block displays the date and links to Google Calendar.
 {% endcomment %}
+
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
@@ -117,6 +117,7 @@ SPECIAL REQUIREMENTS
 
 Modify the block below if there are any special requirements.
 {% endcomment %}
+
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
@@ -125,10 +126,10 @@ Modify the block below if there are any special requirements.
  
 {% comment %}
 ACCESSIBILITY
-
 Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
+
 <p id="accessibility">
   <strong>Accessibility:</strong>
 {% if online == "false" %}
