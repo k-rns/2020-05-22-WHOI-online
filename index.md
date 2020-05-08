@@ -51,6 +51,13 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% comment %}
 INTRODUCTION
 
+
+Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you  
+
+* http://swcarpentry.github.io/python-novice-gapminder/
+* https://github.com/WHOIGit/pandas-talk
+* https://datacarpentry.org/python-ecology-lesson/
+
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
@@ -62,72 +69,31 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
-Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you 
 
-* http://swcarpentry.github.io/python-novice-gapminder/
-* https://github.com/WHOIGit/pandas-talk
-* https://datacarpentry.org/python-ecology-lesson/
+
 
 
 
 {% comment %}
 AUDIENCE
 
-Explain who your audience is.  (In particular, tell readers if the
-workshop is only open to people from a particular institution.
-{% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/who.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/who.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/who.html %}
-{% endif %}
+#Explain who your audience is.  (In particular, tell readers if the
+#workshop is only open to people from a particular institution.
+#{% endcomment %}
+#{% if site.carpentry == "swc" %}
+#{% include swc/who.html %}
+#{% elsif site.carpentry == "dc" %}
+#{% include dc/who.html %}
+#{% elsif site.carpentry == "lc" %}
+#{% include lc/who.html %}
+#{% endif %}
 
 This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills. The workshop will only be held for 10 people at a time.
 
 {% comment %}
 LOCATION
+This is a course for Woods Hole Oceanographic Institution that will be tought on-line
 
-This block displays the address and links to maps showing directions
-if the latitude and longitude of the workshop have been set.  You
-can use https://itouchmap.com/latlong.html to find the lat/long of an
-address.
-{% endcomment %}
-{% assign begin_address = page.address | slice: 0, 4 | downcase  %}
-{% if page.address == "online" %}
-{% assign online = "true_private" %}
-{% elsif begin_address contains "http" %}
-{% assign online = "true_public" %}
-{% else %}
-{% assign online = "false" %}
-{% endif %}
-{% if page.latitude and page.longitude and online == "false" %}
-
-begin: {{ begin_address }}
-online: {{ online }}
-
-<p id="where">
-  <strong>Where:</strong>
-  {{page.address}}.
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
-</p>
-{% elsif online == "true_public" %}
-<p id="where">
-  <strong>Where:</strong>
-  online at <a href="{{page.address}}">{{page.address}}</a>.
-  If you need a password or other information to access the training,
-  the instructor will pass it on to you before the workshop.
-</p>
-{% elsif online == "true_private" %}
-<p id="where">
-  <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the infromation you will need to connect to this meeting.
-</p>
-{% endif %}
 
 {% comment %}
 DATE
