@@ -50,6 +50,16 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 
 {% comment %}
 INTRODUCTION
+Edit the general explanatory paragraph below if you want to change
+the pitch.
+{% endcomment %}
+# {% if site.carpentry == "swc" %}
+# {% include swc/intro.html %}
+# {% elsif site.carpentry == "dc" %}
+# {% include dc/intro.html %}
+# {% elsif site.carpentry == "lc" %}
+# {% include lc/intro.html %}
+# {% endif %}
 
 Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you  
 
@@ -63,11 +73,21 @@ Data wrangling of tables using python and the pandas package: Workshops always h
 
 {% comment %}
 AUDIENCE
-# Explain who your audience is.  (In particular, tell readers if the
-# workshop is only open to people from a particular institution.
-# {% endcomment %}
+Explain who your audience is.  (In particular, tell readers if the
+workshop is only open to people from a particular institution.
+{% endcomment %}
 
-This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills. The workshop will only be held for 10 people at a time.
+
+<p>
+  <strong>Who:</strong>
+  This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
+  The workshop will only be held for 10 people at a time.
+  <strong>
+    You don't need to have any previous knowledge of the tools
+    that will be presented at the workshop.
+  </strong>
+</p>
+
 
 # {% if site.carpentry == "swc" %}
 # {% include swc/who.html %}
