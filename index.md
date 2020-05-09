@@ -292,10 +292,11 @@ please preview your site before committing, and make sure to run
 </p>
 <p>
 This workshop is based on a few workshops developed by the Carpentries (See https://carpentries.org for more information about the Carpentries organisation.) and by Joe Futrelle:  below. 
-  <ul>
-    <li>http://swcarpentry.github.io/python-novice-gapminder/</li>
-    <li>https://github.com/WHOIGit/pandas-talk</li>
-    <li>https://github.com/WHOIGit/pandas-talk</li>
+<ul>
+  <li>http://swcarpentry.github.io/python-novice-gapminder/</li>
+  <li>https://github.com/WHOIGit/pandas-talk</li>
+  <li>https://github.com/WHOIGit/pandas-talk</li>
+</ul>
 </p>
 
 {% if site.carpentry == "swc" %}
