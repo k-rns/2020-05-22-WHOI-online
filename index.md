@@ -117,7 +117,7 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> 
   <ul>
     <li>Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li>
-    <li>They should have a few specific software packages installed (listed <a href="#setup">below</a>).</li>
+    <li>They should have a few specific software packages installed (listed in the "Setup page" <a href="#setup">below</a>).</li>
    </ul>   
 </p>
  
@@ -302,7 +302,7 @@ please preview your site before committing, and make sure to run
   Syllabus pending
 </p>
 <p>
-This workshop is based on a few workshops developed by the Carpentries (See https://carpentries.org for more information about the Carpentries organisation.) and by Joe Futrelle (WHOI)
+This workshop is based on a few workshops developed by the Carpentries (See <a href="https://carpentries.org">https://carpentries.org</a>  for more information about the Carpentries organisation.) and by Joe Futrelle (WHOI)
 <ul>
   <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a></li>
   <li><a href="https://datacarpentry.org/python-ecology-lesson/">Data Analysis and Visualization for Ecologists</a></li>
