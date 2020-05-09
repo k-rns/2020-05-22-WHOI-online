@@ -63,9 +63,6 @@ the pitch.
 
 Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you  
 
-* http://swcarpentry.github.io/python-novice-gapminder/
-* https://github.com/WHOIGit/pandas-talk
-* https://datacarpentry.org/python-ecology-lesson/
 
 
 
@@ -259,7 +256,7 @@ SCHEDULE
 Show the workshop's schedule.  Edit the items and times in the table
 to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
-{% endcomment %}
+
 <h2 id="schedule">Schedule</h2>
 
 {% if site.carpentry == "swc" %}
@@ -271,6 +268,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% endif %}
 
 <hr/>
+{% endcomment %}
+
 
 {% comment %}
 SYLLABUS
@@ -290,6 +289,16 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
+<p>
+  Syllabus pending
+</p>
+<p>
+This workshop is based on a few workshops developed by the Carpentries (See https://carpentries.org for more information about the Carpentries organisation.) and by Joe Futrelle:  below. 
+  <ul>
+    <li>http://swcarpentry.github.io/python-novice-gapminder/</li>
+    <li>https://github.com/WHOIGit/pandas-talk</li>
+    <li>https://github.com/WHOIGit/pandas-talk</li>
+</p>
 
 {% if site.carpentry == "swc" %}
 {% include swc/syllabus.html %}
