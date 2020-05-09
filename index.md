@@ -91,18 +91,11 @@ workshop is only open to people from a particular institution.
 The workshop will only be held for 10 people at a time through an online Zoom meeting
 </p> 
 
-This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
-The workshop will only be held for 10 people at a time through an online Zoom meeting
-
-
-
-
 
 {% comment %}
 LOCATION
 {% endcomment %}
 
-This is a course for Woods Hole Oceanographic Institution that will be tought on-line
 
 
 {% comment %}
@@ -125,8 +118,11 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> 
+  <ul>
+    <li>Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.<\li>
+    <li>They should have a few specific software packages installed (listed <a href="#setup">below</a>). <\li>
+   <\ul>   
 </p>
  
  
