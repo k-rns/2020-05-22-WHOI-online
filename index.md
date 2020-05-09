@@ -195,8 +195,9 @@ This workshop is for you if you:
   <li> want to perform statistical analysis and plots
   <li> want to increase the value added of your dataset for re-use and collaboration .</li>
 </ul>
+
 <p>
-something something
+ something something
 </p>
 
 
@@ -222,8 +223,6 @@ We will be using the Carpentries code of conduct for this workshop.
 {% endcomment %}
 
 <hr/>
-
-
 
 {% comment %}
 Collaborative Notes
