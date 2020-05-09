@@ -185,7 +185,7 @@ Display the contact email address set in the configuration file.
 <p>This workshop is for you if you:</p> 
 <ul>
   <li>are working with tabular/time series data.</li>
-  <li>want to decrease the amount of manual work on your dataset like searching, cutting & pasting, correcting systematic errors, etc./li>
+  <li>want to decrease the amount of manual work on your dataset like searching, cutting & pasting, correcting systematic errors, etc.</li>
   <li>want to perform statistical analysis and plots</li>
   <li>want to increase the value added of your dataset for re-use and collaboration.</li>
 </ul>   
