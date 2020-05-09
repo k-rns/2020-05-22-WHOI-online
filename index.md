@@ -343,7 +343,7 @@ please preview your site before committing, and make sure to run
   <ul>
     <li>A spreadscheet program</li>
     <li>Python and Jupyter notebooks</li>
-   <ul>
+   </ul>
 </p>
 
 <p>
