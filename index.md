@@ -298,9 +298,22 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
-<p>
-  Syllabus pending
+<p>Syllabus pending - Draft</p>
+  
+<p>Part 1. Preparing your table so python can understand it. There are some best pracitces in order to set up your spreadsheet in order to do so:
+  <ul>
+    <li>structuring towards a "flat file" lay-out: https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html</li>
+    <li>Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters : https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html</li> 
+    <li>dates as data: https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html</li>
+   </ul>
+ </p> 
+ 
+ <p>Part 2. python and pandas 
+  <ul>
+    <li>
+  * 
 </p>
+
 <p>
 This workshop is based on a few workshops developed by the Carpentries (See <a href="https://carpentries.org">https://carpentries.org</a>  for more information about the Carpentries organisation.) and by Joe Futrelle (WHOI):
 <ul>
