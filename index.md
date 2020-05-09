@@ -338,7 +338,7 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 <p>
-  To participate in this workshop, you will need access to the software described below. In addition you will need an up-to-data web browser. The setup instructions for the Data Carpentry Ecology workshops (with Python) can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">
+  To participate in this workshop, you will need access to the software described below. In addition you will need an up-to-data web browser. The setup instructions for the Data Carpentry Ecology workshops (with Python) can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html"></a>
    
 </p>
   
