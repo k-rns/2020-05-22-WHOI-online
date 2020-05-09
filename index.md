@@ -182,7 +182,7 @@ Display the contact email address set in the configuration file.
 
 
 <h2 id="why-wrangling">Do I really want to be a data wrangler?</h2>
-<p id="wrangling">This workshop is for you if you:</p> 
+<p>This workshop is for you if you:</p> 
 <ul>
   <li>are working with tabular/time series data.</li>
   <li>want to decrease the amount of manual work on your dataset like searching, cutting & pasting, correcting systematic errors, etc./li>
@@ -198,9 +198,7 @@ CODE OF CONDUCT
 
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
-<p>
-We will be using the Carpentries code of conduct for this workshop.  
-</p>
+<p>We will be using the Carpentries code of conduct for this workshop.</p>
 <p>Everyone who participates in this workshop is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. 
 </p>
 
@@ -291,7 +289,7 @@ please preview your site before committing, and make sure to run
   Syllabus pending
 </p>
 <p>
-This workshop is based on a few workshops developed by the Carpentries (See https://carpentries.org for more information about the Carpentries organisation.) and by Joe Futrelle:  below. 
+This workshop is based on a few workshops developed by the Carpentries (See https://carpentries.org for more information about the Carpentries organisation.) and by Joe Futrelle (WHOI)
 <ul>
   <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a></li>
   <li><a href="https://datacarpentry.org/python-ecology-lesson/">Data Analysis and Visualization for Ecologists</a></li>
