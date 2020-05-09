@@ -51,8 +51,6 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
-{% endcomment %}
-
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
@@ -60,12 +58,13 @@ the pitch.
 {% elsif site.carpentry == "lc" %}
 {% include lc/intro.html %}
 {% endif %}
-
-Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you  
-
+{% endcomment %}
 
 
 
+Workshops always have the cleanest, best examples of data tables to use, don\`t they? These tables always seem to be immediately usable for analysis. Getting a raw table usable for analysis is a process called "data wrangling". In this workshop we\`ll show you how to get to this perfect table using Python and the package Pandas. 
+
+Doing this process right, will not only make you more efficient, but will also make your data easier re-usable in the future. 
 
 
 {% comment %}
