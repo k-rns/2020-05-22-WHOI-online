@@ -296,22 +296,20 @@ the div's with class="row" to balance the multi-column layout.
 This is one of the places where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
+
+{% if site.carpentry == "swc" %}
+{% include swc/syllabus.html %}
+{% elsif site.carpentry == "dc" %}
+{% include dc/syllabus.html %}
+{% elsif site.carpentry == "lc" %}
+{% include lc/syllabus.html %}
+{% endif %}
+
+
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
-<p>Syllabus pending - Draft</p>
-  
-<p>Part 1. Preparing your table so python can understand it. There are some best pracitces in order to set up your spreadsheet in order to do so:
-  <ul>
-    <li>structuring towards a "flat file" lay-out: https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html</li>
-    <li>Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters : https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html</li> 
-    <li>dates as data: https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html</li>
-   </ul>
- </p> 
- 
- <p>Part 2. python and pandas 
-  <ul>
-    <li>
-  * 
+<p>
+  Syllabus pending - Draft
 </p>
 
 <p>
@@ -323,16 +321,32 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   <li><a href="https://github.com/WHOIGit/pandas-talk/">Python and the Pandas package</a></li>
 </ul>
 </p>
-
-{% if site.carpentry == "swc" %}
-{% include swc/syllabus.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
+  
+<p>
+  Part 1. Preparing your table so python can understand it. There are some best pracitces in order to set up your spreadsheet in order to do so:
+  <ul>
+    <li>structuring towards a "flat file" lay-out: https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html</li>
+    <li>Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters : https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html</li> 
+    <li>dates as data: https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html</li>
+   </ul>
+ </p> 
+ 
+ <p>
+  Part 2. python and pandas 
+  <ul>
+    <li>Introduction to python: https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb, https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html</li>
+    <li> Programming in python : https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html, https://github.com/WHOIGit/pandas-talk/blob/master/02%20arrays%20with%20numpy.ipynb</li>
+    <li>Import data, series and dataframes</li>  
+    <li>groups and exploration of dataframs</li>
+    <li>Indexing, slicing and subsetting dataframes</li>
+    <li>Combining dataframes</li>
+  </ul>
+</p>
 
 <hr/>
+
+
+
 
 {% comment %}
 SETUP
