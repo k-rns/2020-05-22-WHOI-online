@@ -181,6 +181,16 @@ Display the contact email address set in the configuration file.
 
 
 <h2 id="why-wrangling">Do I really want to be a data wrangler?</h2>
+
+
+<center>
+<figure>
+  <a href="https://xkcd.com/208/" target="_blank"><img src="https://www.researchgate.net/profile/Paolo_Buono/publication/261843443/figure/fig1/AS:296928958009345@1447804788361/The-iterative-process-of-wrangling-and-analysis-One-or-more-initial-data-sets-may-be.png" alt="Regular expression xkcd comic" style="width:60%">
+  <figcaption><img alt="Creative Commons License" style="border:none;height=10px" src="http://creativecommons.org/images/public/somerights20.png"> by xkcd https://xkcd.com/208/</figcaption>
+</a>
+</figure>
+</center>
+
 <p>This workshop is for you if you:</p> 
 <ul>
   <li>are working with tabular/time series data.</li>
