@@ -302,8 +302,9 @@ please preview your site before committing, and make sure to run
   Syllabus pending
 </p>
 <p>
-This workshop is based on a few workshops developed by the Carpentries (See <a href="https://carpentries.org">https://carpentries.org</a>  for more information about the Carpentries organisation.) and by Joe Futrelle (WHOI)
+This workshop is based on a few workshops developed by the Carpentries (See <a href="https://carpentries.org">https://carpentries.org</a>  for more information about the Carpentries organisation.) and by Joe Futrelle (WHOI):
 <ul>
+  <li><a href=" https://datacarpentry.org/spreadsheet-ecology-lesson/">Data Organization in Spreadsheets for Ecologists</a></li>
   <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a></li>
   <li><a href="https://datacarpentry.org/python-ecology-lesson/">Data Analysis and Visualization for Ecologists</a></li>
   <li><a href="https://github.com/WHOIGit/pandas-talk/">Python and the Pandas package</a></li>
