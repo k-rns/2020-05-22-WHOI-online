@@ -184,12 +184,12 @@ Display the contact email address set in the configuration file.
 <h2 id="why-wrangling">Do I really want to be a data wrangler?</h2>
 <p id="wrangling">
   This workshop is for you if you: 
-  <ul>
-    <li>are working with tabular/time series data.</li>
-    <li>Twant to decrease the amount of manual work on your dataset like searching, cutting & pasting, correcting systematic errors, etc./li>
-    <li>want to perform statistical analysis and plots</li>
-    <li>want to increase the value added of your dataset for re-use and collaboration.</li>   
-   </ul>   
+<ul>
+  <li>are working with tabular/time series data.</li>
+  <li>Twant to decrease the amount of manual work on your dataset like searching, cutting & pasting, correcting systematic errors, etc./li>
+  <li>want to perform statistical analysis and plots</li>
+  <li>want to increase the value added of your dataset for re-use and collaboration.</li>
+</ul>   
 </p>
 
 
@@ -294,9 +294,9 @@ please preview your site before committing, and make sure to run
 <p>
 This workshop is based on a few workshops developed by the Carpentries (See https://carpentries.org for more information about the Carpentries organisation.) and by Joe Futrelle:  below. 
 <ul>
-  <li>http://swcarpentry.github.io/python-novice-gapminder/</li>
-  <li>https://github.com/WHOIGit/pandas-talk</li>
-  <li>https://github.com/WHOIGit/pandas-talk</li>
+  <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a></li>
+  <li><a href="https://datacarpentry.org/python-ecology-lesson/">Data Analysis and Visualization for Ecologists</a></li>
+  <li><a href="https://github.com/WHOIGit/pandas-talk/">Python and the Pandas package</a></li>
 </ul>
 </p>
 
