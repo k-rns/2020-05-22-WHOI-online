@@ -86,7 +86,7 @@ workshop is only open to people from a particular institution.
 {% endif %}
 
 <p>
-  <strong>Who:</strong> Participants must bring a laptop with a
+  <strong>Who:</strong>
   This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
 The workshop will only be held for 10 people at a time through an online Zoom meeting
 </p> 
