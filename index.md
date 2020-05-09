@@ -237,11 +237,12 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
+<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+
 
 <hr/>
 
@@ -338,11 +339,16 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 <p>
-  To participate in this workshop, you will need access to the software described below. In addition you will need an up-to-data web browser. The setup instructions for the Data Carpentry Ecology workshops (with Python) can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html"></a>
-   
+  To participate in this workshop, you will need access to the software described below. In addition you will need an up-to-data web browser. The setup instructions for the Data Carpentry Ecology workshops (with Python) can be found <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">here</a>. From these instructions install:
+  <ul>
+    <li>A spreadscheet program</li>
+    <li>Python and Jupyter notebooks</li>
+   <ul>
 </p>
-  
 
+<p>
+  Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu at .... and help you installing the packages. </p>
+  
 
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
