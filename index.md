@@ -180,16 +180,19 @@ Display the contact email address set in the configuration file.
 <hr/>
 
 
-<h2 id="why-wrangling">Do I really want to be a data wrangler?</h2>
+<h2 id="why-wrangling">Am I a data wrangler?</h2>
+The process called "data wrangling", i.e, manipulating data into a usable form and diagnosing data quality issues often constitutes the most tedious and time-consuming aspect of analysis. 
 
 
+<p>
 <center>
 <figure>
-  <a href="https://xkcd.com/208/" target="_blank"><img src="https://www.researchgate.net/profile/Paolo_Buono/publication/261843443/figure/fig1/AS:296928958009345@1447804788361/The-iterative-process-of-wrangling-and-analysis-One-or-more-initial-data-sets-may-be.png" alt="Regular expression xkcd comic" style="width:60%">
+  <a href="https://doi.org/10.1177/1473871611415994" target="_blank"><img src="https://www.researchgate.net/profile/Paolo_Buono/publication/261843443/figure/fig1/AS:296928958009345@1447804788361/The-iterative-process-of-wrangling-and-analysis-One-or-more-initial-data-sets-may-be.png" alt="Regular expression xkcd comic" style="width:60%">
   <figcaption>Kandel, S. et al (2011). Research directions in data wrangling: Visualisations and transformations for usable and credible data. Inf. Vis., 10(4),271-288</figcaption>
 </a>
 </figure>
 </center>
+</p>
 
 <p>This workshop is for you if you:</p> 
 <ul>
