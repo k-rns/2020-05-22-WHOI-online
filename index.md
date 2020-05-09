@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Woods Hole Oceanographic Institution (online)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Zoom link: "      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "Woods Hole Oceanographic Institution"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "online "      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "41"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -108,7 +108,6 @@ This is a course for Woods Hole Oceanographic Institution that will be tought on
 {% comment %}
 DATE
 This block displays the date and links to Google Calendar.
-{% endcomment %}
 
 {% if page.humandate %}
 <p id="when">
@@ -117,6 +116,7 @@ This block displays the date and links to Google Calendar.
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 SPECIAL REQUIREMENTS
