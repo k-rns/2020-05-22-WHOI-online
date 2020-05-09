@@ -199,21 +199,30 @@ This workshop is for you if you:
 something something
 </p>
 
+
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+We will be using the Carpentries code of conduct for this workshop.  
+</p>
+<p>Everyone who participates in this workshop is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. 
 </p>
 
+{% comment %}
+<p>This document also outlines how to report an incident if needed.</p>
 <p class="text-center">
   <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
     <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
   </a>
 </p>
+{% endcomment %}
+
 <hr/>
+
 
 
 {% comment %}
@@ -237,7 +246,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
-
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
