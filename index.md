@@ -66,6 +66,8 @@ Workshops always have the cleanest, best examples of data tables to use, don\`t 
 
 Doing this process right, will not only make you more efficient, but will also make your data easier re-usable in the future. 
 
+The workshop is sponsored by a WHOI Academic Programs Doherty Award and a DDVPR Technical Staff Training Award
+
 
 {% comment %}
 AUDIENCE
@@ -83,7 +85,7 @@ workshop is only open to people from a particular institution.
 
 <p>
   <strong>Who:</strong>
-  This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
+  This workshop is targeted towards improving project efficiency and building technical skills.
 The workshop will only be held for 10 people at a time through an online Zoom meeting
 </p> 
 
@@ -118,6 +120,7 @@ Modify the block below if there are any special requirements.
   <ul>
     <li>Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li>
     <li>They should have a few specific software packages installed (listed in the "Setup page" <a href="#setup">below</a>).</li>
+    <li>No Python experience is necessary, however some basic programming experience is required.</li>
    </ul>   
 </p>
  
