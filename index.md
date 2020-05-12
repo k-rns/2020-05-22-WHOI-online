@@ -393,7 +393,7 @@ please preview your site before committing, and make sure to run
 </p>
 
 <p>
-  Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu on May 20 and help you installing the packages. </p>
+  Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu on May 20 and help you installing the packages if necessary. </p>
   
 
 <p>
