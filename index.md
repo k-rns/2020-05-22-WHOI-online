@@ -64,7 +64,7 @@ the pitch.
 
 Workshops always have the cleanest, best examples of data tables to use, don\`t they? These tables always seem to be immediately usable for analysis. Getting a raw table usable for analysis is a process called "data wrangling". In this workshop we\`ll show you how to get to this perfect table using Python and the package Pandas. 
 
-Doing this process right, will not only make you more efficient, but will also make your data easier re-usable in the future. 
+Doing this process correctly will not only make you more efficient, but it will also make your data easier to reuse in the future. 
 
 The workshop is sponsored by a WHOI Academic Programs Doherty Award and a DDVPR Technical Staff Training Award
 
@@ -87,7 +87,7 @@ workshop is only open to people from a particular institution.
   <strong>Who:</strong>
   This workshop is targeted towards improving project efficiency and building technical skills.
 The workshop will only be held for 10 people at a time through an online Zoom meeting. 
-  Registration is required. Please contact stace@whoi.edu for availability.
+  Registration is required. Please contact <a href = "mailto: stace@whoi.edu">stace@whoi.edu</a> for availability.
 </p> 
 
 
@@ -120,7 +120,7 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> 
   <ul>
     <li>Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li>
-    <li>A few specific software packages need to be installed (listed in the "Setup page" <a href="#setup">below</a>). We will be holding an on-lind data lab to help you install these packages if necessary.</li>
+    <li>A few specific software packages need to be installed (listed in the "Setup page" <a href="#setup">below</a>). We will be holding an on-line data lab to help you install these packages if necessary.</li>
     <li> Participants will need to join a Zoom video conference. Installing free zoom conference software is recommended.  You will not need a paid account. See <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting">Joining a meeting from Zoom Help Center</a></li>
     <li>This is an introduction to Python and data tables designed for participants with no programming experience.
 </li>
