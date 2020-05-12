@@ -119,8 +119,9 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> 
   <ul>
     <li>Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</li>
-    <li>They should have a few specific software packages installed (listed in the "Setup page" <a href="#setup">below</a>).</li>
-    <li>No Python experience is necessary, however some basic programming experience is required.</li>
+    <li>They should have a few specific software packages installed (listed in the "Setup page" <a href="#setup">below</a>). We will be holding an on-lind data lab to help you install these packages if necessary.</li>
+    <li>This is an introduction to Python and data tables designed for participants with no programming experience.
+</li>
    </ul>   
 </p>
  
@@ -382,15 +383,15 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 <p>
-  To participate in this workshop, you will need access to the software described below. In addition you will need an up-to-data web browser. Set-up instructions for your software can be found <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">here</a> (Instructions from Data Carpentry Ecology workshops-with Python) . From these instructions install:
+  To participate in this workshop, you will need access to a spreadsheet program (Excel, LibreOffice,...), Python and Jupyter notebooks. In addition you will need an up-to-data web browser. Set-up instructions for your software can be found <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">here</a> (Instructions from Data Carpentry Ecology workshops-with Python) . From these instructions install:
   <ul>
-    <li>A spreadscheet program</li>
+    <li>A spreadscheet program (Excel is fine, or you can install the open source software LibreOffice)</li>
     <li>Python and Jupyter notebooks</li>
    </ul>
 </p>
 
 <p>
-  Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu at .... and help you installing the packages. </p>
+  Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu on May 20 and help you installing the packages. </p>
   
 
 <p>
