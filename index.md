@@ -86,7 +86,8 @@ workshop is only open to people from a particular institution.
 <p>
   <strong>Who:</strong>
   This workshop is targeted towards improving project efficiency and building technical skills.
-The workshop will only be held for 10 people at a time through an online Zoom meeting
+The workshop will only be held for 10 people at a time through an online Zoom meeting. 
+  Registration is required. Please contact stace@whoi.edu for availability.
 </p> 
 
 
