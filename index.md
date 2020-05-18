@@ -187,7 +187,7 @@ Display the contact email address set in the configuration file.
 
 
 <h2 id="why-wrangling">Am I a data wrangler?</h2>
-The process called "data wrangling", i.e, manipulating data into a usable form and diagnosing data quality issues often constitutes the most tedious and time-consuming aspect of analysis. 
+The process called "data wrangling", i.e., manipulating data into a usable form and diagnosing data quality issues often constitutes the most tedious and time-consuming aspect of analysis. 
 
 
 <p>
@@ -328,23 +328,23 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 </p>
   
 <p>
-  Part 1. Preparing your table so python can understand it. There are some best pracitces in order to set up your spreadsheet in order to do so:
-  <ul>
-    <li>structuring towards a "flat file" lay-out: https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html</li>
-    <li>Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters : https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html</li> 
-    <li>dates as data: https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html</li>
-   </ul>
- </p> 
+  Part 1. Preparing your table so python can understand it. There are some best practices in order to set up your spreadsheet in order to do so:
+<ul>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">structuring towards a "flat file" lay-out</a></li>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</a></li>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">dates as data</a></li>
+</ul>
+</p> 
  
  <p>
   Part 2. python and pandas 
   <ul>
-    <li>Introduction to python: https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb, https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html</li>
-    <li> Programming in python : https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html, https://github.com/WHOIGit/pandas-talk/blob/master/02%20arrays%20with%20numpy.ipynb</li>
-    <li>Import data, series and dataframes</li>  
-    <li>groups and exploration of dataframs</li>
-    <li>Indexing, slicing and subsetting dataframes</li>
-    <li>Combining dataframes</li>
+  <li><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">Introduction</a> to <a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">python</a></li>
+  <li><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Programming</a> in <a href="https://github.com/WHOIGit/pandas-talk/blob/master/02%20arrays%20with%20numpy.ipynb">python</a></li>
+  <li>Import data, series and dataframes</li>  
+  <li>Groups and exploration of dataframes</li>
+  <li>Indexing, slicing and subsetting dataframes</li>
+  <li>Combining dataframes</li>
   </ul>
 </p>
 
