@@ -62,7 +62,7 @@ the pitch.
 
 
 
-Workshops always have the cleanest, best examples of data tables to use, don\`t they? These tables always seem to be immediately usable for analysis. Getting a raw table usable for analysis is a process called "data wrangling". In this workshop we\`ll show you how to get to this perfect table using Python and the package Pandas. 
+Workshops always have the cleanest, best examples of data tables to use, don't they? These tables always seem to be immediately usable for analysis. Getting a raw table usable for analysis is a process called "data wrangling". In this workshop we'll show you how to get to this perfect table using Python and the package Pandas. 
 
 Doing this process correctly will not only make you more efficient, but it will also make your data easier to reuse in the future. 
 
@@ -205,7 +205,7 @@ The process called "data wrangling", i.e, manipulating data into a usable form a
   <li>are working with tabular/time series data.</li>
   <li>want to decrease the amount of manual work on your dataset like searching, cutting & pasting, correcting systematic errors, etc.</li>
   <li>want to perform statistical analysis and plots</li>
-  <li>want to increase the value added of your dataset for re-use and collaboration.</li>
+  <li>want to increase the value of your dataset for re-use and collaboration.</li>
 </ul>   
 
 
@@ -384,7 +384,7 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 <p>
-  To participate in this workshop, you will need access to a spreadsheet program (Excel, LibreOffice,...), Python and Jupyter notebooks. In addition you will need an up-to-data web browser. Set-up instructions for your software can be found <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">here</a> (Instructions from Data Carpentry Ecology workshops-with Python) . From these instructions install:
+  To participate in this workshop, you will need access to a spreadsheet program (Excel, LibreOffice,...), Python and Jupyter notebooks. In addition you will need an up-to-date web browser. Set-up instructions for your software can be found <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">here</a> (Instructions from Data Carpentry Ecology workshops-with Python) . From these instructions install:
   <ul>
     <li>A spreadscheet program (Excel is fine, or you can install the open source software LibreOffice)</li>
     <li>Python and Jupyter notebooks</li>
