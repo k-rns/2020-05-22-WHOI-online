@@ -331,6 +331,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     
 <h3>Part 1. Preparing your table for python interpretation - Best practices</h3>
  <table class="table table-striped">
+  <col style="width:10%">
+	<col style="width:30%">
+	<col style="width:50%">
       <tr> <td>08:45</td>  <td>Introduction</td> <td></td> </tr>
       <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> <td>Structuring towards a "flat file" lay-out</td> </tr>
       <tr> <td>09:15</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td> <td>multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</td> </tr>
