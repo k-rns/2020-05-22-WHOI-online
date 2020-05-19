@@ -335,47 +335,28 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> <td>Structuring towards a "flat file" lay-out</td> </tr>
       <tr> <td>09:15</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td> <td>multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</td> </tr>
       <tr> <td>09:30</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> <td>Using a date format</td> </tr>
-      <tr> <td>09:45</td>  <td>Break</td> <td></td> </tr>
+      <tr> <td>09:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
    </table>
   
  
  <h3>Part 2. Introduction to python and the pandas package</h3>
   <table class="table table-striped">
       <tr> <td>10:00</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Introduction to python</a></td> <td>What is python? <a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands</a>(Git Joe Futrelle)</td> </tr>
-      <tr> <td>10:15</td>  <td>Coffee</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Managing data with SQL</td> </tr>
-      <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-      <tr> <td>10:45</td>  <td>Break</td> <td></td> </tr>
+      <tr> <td>10:15</td>  <td>The pandas package</td> <td></td> </tr>
+      <tr> <td>10:30</td>  <td>Importing data, series and dataframes</td> <td></td> </tr>
+      <tr> <td>10:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
   </table>
 
  
- <h2>Part 3. Exploring and manipulating your data</h2>
+ <h3>Part 3. Exploring and manipulating your data</h3>
   <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Version control with Git</td> </tr>
-      <tr> <td>10:30</td>  <td>Coffee</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Managing data with SQL</td> </tr>
-      <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>11:00</td>  <td>Groups and exploration of dataframes</td> <td></td> </tr>
+      <tr> <td>11:15</td>  <td>Indexing, Slicing and Subsetting DataFrames in Python</td> <td></td> </tr>
+      <tr> <td>11:30</td>  <td>Combining dataframes</td> <td></td> </tr>
+      <tr> <td>11:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
+      <tr> <td>12:00</td>  <td>Questions?</td> <td></td> </tr>
+      <tr> <td>12:15</td>  <td>Wrap-up</td> <td></td> </tr>
   </table>
-
-
- 
- <p>
-  Part 2. python and pandas 
-  <ul>
-  <li><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">Introduction</a> to <a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">python</a></li>
-  <li><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Programming</a> in <a href="https://github.com/WHOIGit/pandas-talk/blob/master/02%20arrays%20with%20numpy.ipynb">python</a></li>
-  <li>Import data, series and dataframes</li>  
-  <li>Groups and exploration of dataframes</li>
-  <li>Indexing, slicing and subsetting dataframes</li>
-  <li>Combining dataframes</li>
-  </ul>
-</p>
-
-<hr/>
-
 
 
 
