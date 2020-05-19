@@ -332,7 +332,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   <div class="col-md-6">
 {% endcomment %}
     
-    <h3>Part 1. Preparing your table so python can understand it. There are some best practices in order to set up your spreadsheet in order to do so</h3>
+   <h2>Part 1. Preparing your table so python can understand it. There are some best practices in order to set up your spreadsheet in order to do so</h3>
     <table class="table table-striped">
       <tr> <td>08:45</td>  <td>Introduction</td> </tr>
       <tr> <td>10:30</td>  <td>Formatting data tables in Spreadsheets</td> </tr>
