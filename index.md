@@ -332,14 +332,13 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   <div class="col-md-6">
 {% endcomment %}
     
-   <h2>Part 1. Preparing your table so python can understand it. There are some best practices in order to set up your spreadsheet in order to do so</h3>
+   <h2>Part 1. Preparing your table for python interpretation</h2>
     <table class="table table-striped">
       <tr> <td>08:45</td>  <td>Introduction</td> </tr>
-      <tr> <td>10:30</td>  <td>Formatting data tables in Spreadsheets</td> </tr>
-      <tr> <td>12:00</td>  <td>Formatting problems</td> </tr>
-      <tr> <td>13:00</td>  <td>Dates</td> </tr>
-      <tr> <td>9:45</td>  <td>Break</td> </tr>
-      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>09:00</td>  <td>Formatting data tables in Spreadsheets</td> <td></td> </tr>
+      <tr> <td>09:15</td>  <td><li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></li></td> <td>multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</td> </tr>
+      <tr> <td>09:30</td>  <td>Dates</td> </tr>
+      <tr> <td>09:45</td>  <td>Break</td> </tr>
     </table>
   
   {% comment %} 
@@ -364,7 +363,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   Part 1. Preparing your table so python can understand it. There are some best practices in order to set up your spreadsheet in order to do so:
 <ul>
   <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">structuring towards a "flat file" lay-out</a></li>
-  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</a></li>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></li>
   <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">dates as data</a></li>
 </ul>
 </p> 
