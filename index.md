@@ -341,8 +341,8 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
  
  <h3>Part 2. Introduction to python and the pandas package</h3>
   <table class="table table-striped">
-      <tr> <td>10:00</td>  <td>Version control with Git</td> </tr>
-      <tr> <td>10:30</td>  <td>Coffee</td> </tr>
+      <tr> <td>10:00</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Introduction to python</a></td> <td>What is python? <a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands</a>(Git Joe Futrelle)</td> </tr>
+      <tr> <td>10:15</td>  <td>Coffee</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:00</td>  <td>Managing data with SQL</td> </tr>
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
