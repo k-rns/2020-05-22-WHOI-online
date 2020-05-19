@@ -208,7 +208,7 @@ The process called "data wrangling", i.e., manipulating data into a usable form 
   <li>want to increase the value of your dataset for re-use and collaboration.</li>
 </ul>   
 
-
+<hr/>
 
 {% comment%}
 CODE OF CONDUCT
