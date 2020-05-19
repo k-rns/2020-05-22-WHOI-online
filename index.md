@@ -340,7 +340,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>09:30</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> <td>Using a date format</td> </tr>
       <tr> <td>09:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
    </table>
- 
+ <br>
  </p> 
  
  <p>  
@@ -354,7 +354,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>10:30</td>  <td>Importing data, series and dataframes</td> <td></td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
   </table>
-  
+<br> 
 </p>  
 
 <p>  
@@ -370,9 +370,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>12:00</td>  <td>Questions?</td> <td></td> </tr>
       <tr> <td>12:15</td>  <td>Wrap-up</td> <td></td> </tr>
   </table>
- 
+<br> 
 </p>  
-
+<br>
 <hr/>
 
 {% comment %}
