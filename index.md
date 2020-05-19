@@ -327,9 +327,11 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 </ul>
 </p>
  
- 
+{% comment %} 
  <div class="row">
   <div class="col-md-6">
+{% endcomment %}
+    
     <h3>Part 1. Preparing your table so python can understand it. There are some best practices in order to set up your spreadsheet in order to do so</h3>
     <table class="table table-striped">
       <tr> <td>08:45</td>  <td>Introduction</td> </tr>
@@ -339,7 +341,11 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>9:45</td>  <td>Break</td> </tr>
       <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
     </table>
+  
+  {% comment %} 
   </div>
+  {% endcomment %}
+  
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
