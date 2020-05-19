@@ -331,9 +331,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     
 <h3>Part 1. Preparing your table for python interpretation - Best practices</h3>
  <table class="table table-striped">
-  <col style="width:10%">
+  <col style="width:5%">
 	<col style="width:30%">
-	<col style="width:50%">
+	<col style="width:55%">
       <tr> <td>08:45</td>  <td>Introduction</td> <td></td> </tr>
       <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> <td>Structuring towards a "flat file" lay-out</td> </tr>
       <tr> <td>09:15</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td> <td>multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</td> </tr>
@@ -344,6 +344,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
  
  <h3>Part 2. Introduction to python and the pandas package</h3>
   <table class="table table-striped">
+    <col style="width:5%">
+	  <col style="width:30%">
+	  <col style="width:55%">
       <tr> <td>10:00</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Introduction to python</a></td> <td>What is python? <a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands</a>(Git Joe Futrelle)</td> </tr>
       <tr> <td>10:15</td>  <td>The pandas package</td> <td></td> </tr>
       <tr> <td>10:30</td>  <td>Importing data, series and dataframes</td> <td></td> </tr>
@@ -353,6 +356,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
  
  <h3>Part 3. Exploring and manipulating your data</h3>
   <table class="table table-striped">
+    <col style="width:5%">
+	  <col style="width:30%">
+	  <col style="width:55%">
       <tr> <td>11:00</td>  <td>Groups and exploration of dataframes</td> <td></td> </tr>
       <tr> <td>11:15</td>  <td>Indexing, Slicing and Subsetting DataFrames in Python</td> <td></td> </tr>
       <tr> <td>11:30</td>  <td>Combining dataframes</td> <td></td> </tr>
