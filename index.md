@@ -358,9 +358,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 	  <col style="width:30%">
 	  <col style="width:55%">
       <tr> <td>11:00</td>  <td>Groups and exploration of dataframes</td> <td></td> </tr>
-      <tr> <td>11:15</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html">Indexing, Slicing and Subsetting DataFrames in Python</a></td> <td>How can I access specific data within my data set? How can Python and Pandas help me to analyse my data?
+      <tr> <td>11:15</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html">Indexing, Slicing and Subsetting DataFrames in Python</a></td> <td>How can I access specific data within my data set?<br/>How can Python and Pandas help me to analyse my data?
 </td> </tr>
-      <tr> <td>11:30</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.htmlCombining dataframes">Combining Dataframes</a></td> <td>Can I work with data from multiple sources?
+      <tr> <td>11:30</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.htmlCombining dataframes">Combining Dataframes</a></td> <td>Can I work with data from multiple sources?<br/>
 How can I combine data from different data sets?</td> </tr>
       <tr> <td>11:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
       <tr> <td>12:00</td>  <td>Questions?</td> <td></td> </tr>
