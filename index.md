@@ -313,11 +313,8 @@ please preview your site before committing, and make sure to run
 
 {% endcomment %}
 <h2 id="syllabus">Schedule & Syllabus</h2>
-<p>
- 
-</p>
 
-<p>
+
 This workshop is based on a few workshops developed by the Carpentries (See <a href="https://carpentries.org">https://carpentries.org</a>  for more information about the Carpentries organisation.) and by Joe Futrelle (WHOI):
 <ul>
   <li><a href=" https://datacarpentry.org/spreadsheet-ecology-lesson/">Data Organization in Spreadsheets for Ecologists</a></li>
@@ -325,10 +322,10 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   <li><a href="https://datacarpentry.org/python-ecology-lesson/">Data Analysis and Visualization for Ecologists</a></li>
   <li><a href="https://github.com/WHOIGit/pandas-talk/">Python and the Pandas package</a></li>
 </ul>
-</p>
- 
 
-<p>    
+<br>
+ 
+   
 <h3>Part 1. Preparing your table for python interpretation - Best practices</h3>
  <table class="table table-striped">
   <col style="width:5%">
@@ -341,9 +338,8 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>09:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
    </table>
  <br>
- </p> 
  
- <p>  
+
  <h3>Part 2. Introduction to python and the pandas package</h3>
   <table class="table table-striped">
     <col style="width:5%">
@@ -355,7 +351,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>10:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
   </table>
 <br> 
-</p>  
+  
 
 <p>  
  <h3>Part 3. Exploring and manipulating your data</h3>
