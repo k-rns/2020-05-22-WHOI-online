@@ -331,9 +331,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 	<col style="width:30%">
 	<col style="width:55%">
       <tr> <td>08:45</td>  <td>Introduction</td> <td></td> </tr>
-      <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> <td>Structuring towards a "flat file" lay-out</td> </tr>
-      <tr> <td>09:15</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td> <td>multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</td> </tr>
-      <tr> <td>09:30</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> <td>Using a date format</td> </tr>
+      <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> <td>How do we format data in spreadsheets for effective data use?</td> </tr>
+      <tr> <td>09:15</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td> <td>mMltiple tables and tabs<br/> Zeros and problematic null values<br/>Colors to convey information<br/> 1 piece of information in a cell<br/> Problematic field names<br/> Special characters</td> </tr>
+      <tr> <td>09:30</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> <td>Good approaches for handling dates in spreadsheets?</td> </tr>
       <tr> <td>09:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
    </table>
  
@@ -344,8 +344,9 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <col style="width:5%">
 	  <col style="width:30%">
 	  <col style="width:55%">
-      <tr> <td>10:00</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Introduction to python</a></td> <td>What is python? <a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands</a>(Git Joe Futrelle)</td> </tr>
-      <tr> <td>10:15</td>  <td>The pandas package</td> <td></td> </tr>
+      <tr> <td>10:00</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Introduction</a> and <a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Programming/a> in Python</td> <td>What is python? <a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands</a>(Git Joe Futrelle)</td> </tr>
+      <tr> <td>10:15</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html>The Pandas package</a></td> <td>What is Pandas?<br/>Why should I use Pandas to work with data?
+</td> </tr>
       <tr> <td>10:30</td>  <td>Importing data, series and dataframes</td> <td></td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
   </table>
