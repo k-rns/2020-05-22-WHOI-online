@@ -327,26 +327,19 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 </ul>
 </p>
  
-{% comment %} 
- <div class="row">
-  <div class="col-md-6">
-{% endcomment %}
+
     
-   <h2>Part 1. Preparing your table for python interpretation</h2>
-    <table class="table table-striped">
+<h2>Part 1. Preparing your table for python interpretation</h2>
+ <table class="table table-striped">
       <tr> <td>08:45</td>  <td>Introduction</td> </tr>
-      <tr> <td>09:00</td>  <td>Formatting data tables in Spreadsheets</td> <td></td> </tr>
-      <tr> <td>09:15</td>  <td><li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></li></td> <td>multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</td> </tr>
-      <tr> <td>09:30</td>  <td>Dates</td> </tr>
-      <tr> <td>09:45</td>  <td>Break</td> </tr>
-    </table>
+      <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> <td>Structuring towards a "flat file" lay-out</td> </tr>
+      <tr> <td>09:15</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td> <td>multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</td> </tr>
+      <tr> <td>09:30</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> <td>Using a date format</td> </tr>
+      <tr> <td>09:45</td>  <td>Break</td> <td></td> </tr>
+   </table>
   
-  {% comment %} 
-  </div>
-  {% endcomment %}
-  
-  <div class="col-md-6">
-    <h3>Day 2</h3>
+ 
+ <h2>Part 2. Introduction to python and the pandas package</h2>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Version control with Git</td> </tr>
       <tr> <td>10:30</td>  <td>Coffee</td> </tr>
