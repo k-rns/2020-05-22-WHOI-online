@@ -328,7 +328,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 </p>
  
 
-    
+<p>    
 <h3>Part 1. Preparing your table for python interpretation - Best practices</h3>
  <table class="table table-striped">
   <col style="width:5%">
@@ -340,8 +340,10 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>09:30</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> <td>Using a date format</td> </tr>
       <tr> <td>09:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
    </table>
-  
  
+ </p> 
+ 
+ <p>  
  <h3>Part 2. Introduction to python and the pandas package</h3>
   <table class="table table-striped">
     <col style="width:5%">
@@ -352,8 +354,10 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>10:30</td>  <td>Importing data, series and dataframes</td> <td></td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
   </table>
+  
+</p>  
 
- 
+<p>  
  <h3>Part 3. Exploring and manipulating your data</h3>
   <table class="table table-striped">
     <col style="width:5%">
@@ -366,6 +370,8 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> <td>12:00</td>  <td>Questions?</td> <td></td> </tr>
       <tr> <td>12:15</td>  <td>Wrap-up</td> <td></td> </tr>
   </table>
+ 
+</p>  
 
 <hr/>
 
