@@ -62,7 +62,7 @@ the pitch.
 
 
 
-Workshops always have the cleanest, best examples of data tables to use, don\`t they? These tables always seem to be immediately usable for analysis. Getting a raw table usable for analysis is a process called "data wrangling". In this workshop we\`ll show you how to get to this perfect table using Python and the package Pandas. 
+Workshops always have the cleanest, best examples of data tables to use, don't they? These tables always seem to be immediately usable for analysis. Getting a raw table usable for analysis is a process called "data wrangling". In this workshop we'll show you how to get to this perfect table using Python and the package Pandas. 
 
 Doing this process correctly will not only make you more efficient, but it will also make your data easier to reuse in the future. 
 
@@ -187,7 +187,7 @@ Display the contact email address set in the configuration file.
 
 
 <h2 id="why-wrangling">Am I a data wrangler?</h2>
-The process called "data wrangling", i.e, manipulating data into a usable form and diagnosing data quality issues often constitutes the most tedious and time-consuming aspect of analysis. 
+The process called "data wrangling", i.e., manipulating data into a usable form and diagnosing data quality issues often constitutes the most tedious and time-consuming aspect of analysis. 
 
 
 <p>
@@ -205,7 +205,7 @@ The process called "data wrangling", i.e, manipulating data into a usable form a
   <li>are working with tabular/time series data.</li>
   <li>want to decrease the amount of manual work on your dataset like searching, cutting & pasting, correcting systematic errors, etc.</li>
   <li>want to perform statistical analysis and plots</li>
-  <li>want to increase the value added of your dataset for re-use and collaboration.</li>
+  <li>want to increase the value of your dataset for re-use and collaboration.</li>
 </ul>   
 
 
@@ -328,23 +328,23 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 </p>
   
 <p>
-  Part 1. Preparing your table so python can understand it. There are some best pracitces in order to set up your spreadsheet in order to do so:
-  <ul>
-    <li>structuring towards a "flat file" lay-out: https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html</li>
-    <li>Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters : https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html</li> 
-    <li>dates as data: https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html</li>
-   </ul>
- </p> 
+  Part 1. Preparing your table so python can understand it. There are some best practices in order to set up your spreadsheet in order to do so:
+<ul>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">structuring towards a "flat file" lay-out</a></li>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems: multiple tables and tabs, zeros and problematic null values, colors to convey information, 1 piece of information in a cell, problematic field names, special characters</a></li>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">dates as data</a></li>
+</ul>
+</p> 
  
  <p>
   Part 2. python and pandas 
   <ul>
-    <li>Introduction to python: https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb, https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html</li>
-    <li> Programming in python : https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html, https://github.com/WHOIGit/pandas-talk/blob/master/02%20arrays%20with%20numpy.ipynb</li>
-    <li>Import data, series and dataframes</li>  
-    <li>groups and exploration of dataframs</li>
-    <li>Indexing, slicing and subsetting dataframes</li>
-    <li>Combining dataframes</li>
+  <li><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">Introduction</a> to <a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">python</a></li>
+  <li><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Programming</a> in <a href="https://github.com/WHOIGit/pandas-talk/blob/master/02%20arrays%20with%20numpy.ipynb">python</a></li>
+  <li>Import data, series and dataframes</li>  
+  <li>Groups and exploration of dataframes</li>
+  <li>Indexing, slicing and subsetting dataframes</li>
+  <li>Combining dataframes</li>
   </ul>
 </p>
 
@@ -384,15 +384,15 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 <p>
-  To participate in this workshop, you will need access to a spreadsheet program (Excel, LibreOffice,...), Python and Jupyter notebooks. In addition you will need an up-to-data web browser. Set-up instructions for your software can be found <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">here</a> (Instructions from Data Carpentry Ecology workshops-with Python) . From these instructions install:
+  To participate in this workshop, you will need access to a spreadsheet program (Excel, LibreOffice,...), Python and Jupyter notebooks. In addition you will need an up-to-date web browser. Set-up instructions for your software can be found <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">here</a> (Instructions from Data Carpentry Ecology workshops-with Python) . From these instructions install:
   <ul>
-    <li>A spreadscheet program (Excel is fine, or you can install the open source software LibreOffice)</li>
+    <li>A spreadsheet program (Excel is fine, or you can install the open source software LibreOffice)</li>
     <li>Python and Jupyter notebooks</li>
    </ul>
 </p>
 
 <p>
-  Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu on May 20 and help you installing the packages if necessary. </p>
+  Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu on May 20 and can help you install the packages if necessary. </p>
   
 
 <p>
