@@ -339,7 +339,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
  
  <br>
  
- <h3>Part 2. Introduction to python and the pandas package</h3>
+ <h3>Part 2. Starting with Python and the Pandas package</h3>
   <table class="table table-striped">
     <col style="width:5%">
 	  <col style="width:30%">
