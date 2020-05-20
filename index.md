@@ -400,7 +400,7 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 <p>
-  To participate in this workshop, you will need access to a spreadsheet program (Excel, LibreOffice,...), Python and Jupyter notebooks. In addition you will need an up-to-date web browser. 
+  To participate in this workshop, you will need an up-to-date web browser and access access to a spreadsheet program (Excel, LibreOffice,...), Python and Jupyter notebooks. In addition you will need an up-to-date web browser. 
 </p>
 <p> You only need to install these programs:
   <ul>
