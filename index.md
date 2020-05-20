@@ -405,7 +405,7 @@ please preview your site before committing, and make sure to run
 <p> You only need to install these programs:
   <ul>
     <li>A spreadsheet program (Excel is fine, or you can install the open source software LibreOffice)</li>
-    <li>Python and Jupyter notebooks using Anaconda: https://www.anaconda.com/products/individual#download-section (python 3.7)</li>
+    <li>Python and Jupyter notebooks using Anaconda: <a href="https://www.anaconda.com/products/individual#download-section">https://www.anaconda.com/products/individual#download-section</a>  (python 3.7)</li>
    </ul>
 </p>
 
