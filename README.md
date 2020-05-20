@@ -3,6 +3,7 @@
 * [Collaborative notes](https://drive.google.com/open?id=1dgGYFDxOKrxiXSdTOPxecAjSozHor5fqci7HetIWZeE)
 * Jupyter Notebooks used in this workshop can be found in the folder [/data](https://github.com/k-rns/2020-05-22-WHOI-online/tree/gh-pages/data) in this repository.
 
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/k-rns/2020-05-22-WHOI-online/gh-pages)
 
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
