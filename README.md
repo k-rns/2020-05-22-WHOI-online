@@ -1,3 +1,9 @@
+# WHOI half day workshop May 22, 2020 - Mix and Match from Carpentries and Joe Futrelle workshop
+* [Workshop Landing Page](https://k-rns.github.io/2020-05-22-WHOI-online/): The schedule on this page is the lesson plan that will be followed. You can find links to the Jupyter Notebooks in here. 
+* [Collaborative notes](https://drive.google.com/open?id=1dgGYFDxOKrxiXSdTOPxecAjSozHor5fqci7HetIWZeE)
+* Jupyter Notebooks used in this workshop can be found in the folder [/data](https://github.com/k-rns/2020-05-22-WHOI-online/tree/gh-pages/data) in this repository.
+
+
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
 # The Carpentries Workshop Template
