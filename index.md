@@ -332,6 +332,13 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   <col style="width:15%">
   <col style="width:35%">
    <tr> 
+    <td>TIME</td>  
+    <td>SUBJECT</td> 
+    <td>TOPICS COVERED</td> 
+    <td>NOTEBOOK/EXERCISE LINK</td>
+    <td>MORE RESOURCES</td>
+   </tr>
+   <tr> 
     <td>08:45</td>  
     <td>Introduction</td> 
     <td></td> 
@@ -377,6 +384,13 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 	<col style="width:30%">
   <col style="width:15%">
   <col style="width:35%">
+  <tr> 
+    <td>TIME</td>  
+    <td>SUBJECT</td> 
+    <td>TOPICS COVERED</td> 
+    <td>NOTEBOOK/EXERCISE LINK</td>
+    <td>MORE RESOURCES</td>
+   </tr>
    <tr> 
         <td>10:00</td>  
         <td>Starting with Python</td> 
@@ -416,6 +430,13 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 	<col style="width:30%">
   <col style="width:15%">
   <col style="width:35%">
+  <tr> 
+    <td>TIME</td>  
+    <td>SUBJECT</td> 
+    <td>TOPICS COVERED</td> 
+    <td>NOTEBOOK/EXERCISE LINK</td>
+    <td>MORE RESOURCES</td>
+   </tr>
    <tr> 
     <td>11:00</td>  
     <td>Further manipulation of a data frame</td> 
