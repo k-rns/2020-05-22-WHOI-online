@@ -424,7 +424,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
      <td>
        <a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries: Statistics, groups and basic math</a>
        <br/><a href="https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html">Carpentries: Merging data</a>
-       <br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/05%20querying%20and%20merging%20dataframes.ipynb">Querying and mergin DFs, Notebook Joe Futrelle, WHOI</a> 
+       <br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/05%20querying%20and%20merging%20dataframes.ipynb">Querying and merging DFs, Notebook Joe Futrelle, WHOI</a> 
      </td> 
    </tr>
    <tr> 
