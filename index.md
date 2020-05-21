@@ -343,7 +343,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
      <td>Formatting data tables in Spreadsheets</td> 
      <td>How do we format data in spreadsheets for effective data use?</td> 
      <td></td>
-     <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Carpentries-data table </a></td>
+     <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Carpentries: data table </a></td>
   </tr>
   <tr> 
     <td>09:10</td>  
@@ -357,7 +357,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <td>Date Notation</td> 
     <td>Good approaches for handling dates in spreadsheets</td> 
     <td></td>
-    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Carpentries:dates</a></td>
+    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Carpentries: dates</a></td>
   </tr>
   <tr> 
     <td>09:45</td>  
@@ -370,7 +370,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
  
  <br>
  
-<h3>Part 2. Python and the Pandas package</h3>
+<h3>Part 2. Python and the Pandas library</h3>
  <table class="table table-striped">
   <col style="width:5%">
 	<col style="width:15%">
@@ -381,15 +381,15 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
         <td>10:00</td>  
         <td>Starting with Python</td> 
         <td>What is Python?<br/>Data types<br/>Mathematical operations<br/>Lists</td> 
-        <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/01_Python%20Basics.ipynb">Notebook: Intro to python</a></td>
-        <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Carpentries intro to python 1</a><br><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Carpentries intro to python</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands, Notebook Joe Futrelle, WHOI</a></td>
+        <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/01_Python%20Basics.ipynb">Notebook: Intro to Python</a></td>
+        <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Carpentries intro to Python I</a><br><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Carpentries intro to Python II</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands, Notebook Joe Futrelle, WHOI</a></td>
     </tr>
     <tr> 
         <td>10:20</td>  
         <td>The Pandas Library</td>
-        <td>What is Pandas?<br/>How do I import data<br/>What is a dataframe?<br/>Selecting</td>
+        <td>What is Pandas?<br/>How do I import data<br/>What is a dataframe?<br/>How can I access specific data within my data set?</td>
         <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/02_Pandas_DataFrames_Series.ipynb">Notebook: Intro to Pandas</a></td>
-        <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries:starting with data</a></td>
+        <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries:starting with data</a><br/><a href="https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html">Carpentries: Indexing, Slicing and Subsetting DataFrames in Python</a></td>
     </tr> 
     <tr> 
         <td>10:35</td>  
@@ -409,19 +409,30 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 
 <br> 
    
- <h3>Part 3. Further manipulation of a data frame</h3>
-  <table class="table table-striped">
-    <col style="width:5%">
-	  <col style="width:30%">
-	  <col style="width:55%">
-      <tr> <td>11:00</td>  <td>Exploration of dataframes</td> <td></td> </tr>
-      <tr> <td>11:15</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html">Indexing, Slicing and Subsetting DataFrames in Python</a></td> <td>How can I access specific data within my data set?<br/>How can Python and Pandas help me to analyse my data?
-</td> </tr>
-      <tr> <td>11:30</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.htmlCombining dataframes">Combining Dataframes</a></td> <td>Can I work with data from multiple sources?<br/>
-How can I combine data from different data sets?</td> </tr>
-      <tr> <td>11:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
-      <tr> <td>12:00</td>  <td>Questions?</td> <td></td> </tr>
-      <tr> <td>12:15</td>  <td>Wrap-up</td> <td></td> </tr>
+<h3>Part 3. Further manipulation of a data frame</h3>
+ <table class="table table-striped">
+  <col style="width:5%">
+	<col style="width:15%">
+	<col style="width:30%">
+  <col style="width:15%">
+  <col style="width:35%">
+   <tr> 
+    <td>11:00</td>  
+    <td>Exploration of dataframes</td> 
+    <td></td>
+    <td></td> 
+   </tr>
+   <tr> 
+     <td>11:30</td>  
+     <td>Excercise</td> 
+     <td></td>
+     <td></td> 
+     <td></td> 
+   </tr>
+ 
+   <tr> <td>11:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
+   <tr> <td>12:00</td>  <td>Questions?</td> <td></td> </tr>
+   <tr> <td>12:15</td>  <td>Wrap-up</td> <td></td> </tr>
   </table>
 <br> 
   
