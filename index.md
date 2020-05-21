@@ -370,40 +370,41 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
  
  <br>
  
- <h3>Part 2. Python and the Pandas package</h3>
-  <table class="table table-striped">
-   <col style="width:5%">
-	 <col style="width:15%">
-	 <col style="width:30%">
-   <col style="width:15%">
-   <col style="width:35%">
-      <tr> 
+<h3>Part 2. Python and the Pandas package</h3>
+ <table class="table table-striped">
+  <col style="width:5%">
+	<col style="width:15%">
+	<col style="width:30%">
+  <col style="width:15%">
+  <col style="width:35%">
+   <tr> 
         <td>10:00</td>  
         <td>Starting with Python</td> 
         <td>What is Python?<br/>Data types<br/>Mathematical operations<br/>Lists</td> 
         <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/01_Python%20Basics.ipynb">Notebook: Intro to python</a></td>
         <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Carpentries intro to python 1</a><br><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Carpentries intro to python</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands, Notebook Joe Futrelle, WHOI</a></td>
-      </tr>
-      <tr> 
+    </tr>
+    <tr> 
         <td>10:20</td>  
         <td>The Pandas Library</td>
         <td>What is Pandas?<br/>How do I import data<br/>What is a dataframe?<br/>Selecting</td>
         <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/02_Pandas_DataFrames_Series.ipynb">Notebook: Intro to Pandas</a></td>
         <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries:starting with data</a></td>
-      <tr> 
+    </tr> 
+    <tr> 
         <td>10:35</td>  
         <td>Excercise</td> 
         <td></td> 
         <td></td> 
         <td></td> 
-      </tr>
-      <tr> 
+   </tr>
+   <tr> 
         <td>10:45</td>  
         <td>Break</td> 
         <td>15 minute break</td>
         <td></td> 
         <td></td> 
-      </tr>
+    </tr>
  </table>
 
 <br> 
