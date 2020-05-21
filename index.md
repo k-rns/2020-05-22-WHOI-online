@@ -435,8 +435,20 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
      <td></td> 
    </tr>
  
-   <tr> <td>11:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
-   <tr> <td>12:00</td>  <td>Questions?</td> <td></td> </tr>
+   <tr> 
+    <td>11:45</td>  
+    <td>Break</td> 
+    <td>15 minute break</td> 
+    <td></td>
+    <td></td> 
+   </tr>
+   <tr> 
+    <td>12:00</td>  
+    <td>Questions?</td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+   </tr>
    <tr> <td>12:15</td>  <td>Wrap-up</td> <td></td> </tr>
   </table>
 <br> 
