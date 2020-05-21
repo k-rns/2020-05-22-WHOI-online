@@ -329,12 +329,31 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   <col style="width:5%">
 	<col style="width:30%">
 	<col style="width:55%">
-      <tr> <td>08:45</td>  <td>Introduction</td> <td></td> </tr>
-      <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> <td>How do we format data in spreadsheets for effective data use?</td> </tr>
-      <tr> <td>09:15</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td> <td>Multiple tables and tabs<br/> Zeros and problematic null values<br/>Colors to convey information<br/> 1 piece of information in a cell<br/> Problematic field names<br/> Special characters</td> </tr>
-      <tr> <td>09:30</td>  <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> <td>Good approaches for handling dates in spreadsheets?</td> </tr>
-      <tr> <td>09:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
-   </table>
+   <tr> 
+    <td>08:45</td>  
+    <td>Introduction</td> 
+    <td></td> 
+   </tr>
+   <tr> 
+     <td>09:00</td>  
+     <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> 
+     <td>How do we format data in spreadsheets for effective data use?</td> 
+  </tr>
+  <tr> 
+    <td>09:15</td>  
+    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td>       <td>Multiple tables and tabs<br/> Zeros and problematic null values<br/>Colors to convey information<br/> 1 piece of information in a cell<br/> Problematic field names<br/> Special characters</td> 
+  </tr>
+  <tr> 
+    <td>09:30</td>  
+    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> 
+    <td>Good approaches for handling dates in spreadsheets?</td> 
+  </tr>
+  <tr> 
+    <td>09:45</td>  
+    <td>Break</td> 
+    <td>15 minute break</td> 
+  </tr>
+ </table>
  
  <br>
  
