@@ -335,7 +335,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <td>TIME</td>  
     <td>SUBJECT</td> 
     <td>TOPICS COVERED</td> 
-    <td>NOTEBOOK/EXERCISE LINK</td>
+    <td>NOTEBOOK/EXERCISE</td>
     <td>MORE RESOURCES</td>
    </tr>
    <tr> 
@@ -388,7 +388,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <td>TIME</td>  
     <td>SUBJECT</td> 
     <td>TOPICS COVERED</td> 
-    <td>NOTEBOOK/EXERCISE LINK</td>
+    <td>NOTEBOOK/EXERCISE</td>
     <td>MORE RESOURCES</td>
    </tr>
    <tr> 
@@ -434,7 +434,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <td>TIME</td>  
     <td>SUBJECT</td> 
     <td>TOPICS COVERED</td> 
-    <td>NOTEBOOK/EXERCISE LINK</td>
+    <td>NOTEBOOK/EXERCISE</td>
     <td>MORE RESOURCES</td>
    </tr>
    <tr> 
