@@ -327,10 +327,10 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 <h3>Part 1. Preparing your table for python interpretation - Best practices</h3>
  <table class="table table-striped">
   <col style="width:5%">
-	<col style="width:20%">
+	<col style="width:15%">
 	<col style="width:30%">
-  <col style="width:30%">
-  <col style="width:10%">
+  <col style="width:15%">
+  <col style="width:35%">
    <tr> 
     <td>08:45</td>  
     <td>Introduction</td> 
