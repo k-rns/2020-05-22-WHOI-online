@@ -335,6 +335,8 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <td>08:45</td>  
     <td>Introduction</td> 
     <td></td> 
+    <td></td>
+    <td></td>
    </tr>
    <tr> 
      <td>09:00</td>  
@@ -352,10 +354,10 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
   </tr>
   <tr> 
     <td>09:35</td>  
-    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> 
-    <td>Good approaches for handling dates in spreadsheets?</td> 
+    <td>Date Notation</td> 
+    <td>Good approaches for handling dates in spreadsheets</td> 
     <td></td>
-    <td></td>
+    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Carpentries:dates</a></td>
   </tr>
   <tr> 
     <td>09:45</td>  
