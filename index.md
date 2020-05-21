@@ -380,7 +380,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
       <tr> 
         <td>10:00</td>  
         <td>Starting with Python</td> 
-        <td>What is Python?<br/>Data types<br/>Mathematical operations<br/>Lists </td> 
+        <td>What is Python?<br/>Data types<br/>Mathematical operations<br/>Lists</td> 
         <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/01_Python%20Basics.ipynb">Notebook: Intro to python</a></td>
         <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Carpentries intro to python 1</a><br><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Carpentries intro to python</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands, Notebook Joe Futrelle, WHOI</a></td>
       </tr>
@@ -395,7 +395,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
         <td>Excercise</td> 
         <td></td> 
         <td></td> 
-       <td></td> 
+        <td></td> 
       </tr>
       <tr> 
         <td>10:45</td>  
