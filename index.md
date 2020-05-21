@@ -340,8 +340,10 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
      <td>How do we format data in spreadsheets for effective data use?</td> 
   </tr>
   <tr> 
-    <td>09:15</td>  
-    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Formatting problems</a></td>       <td>Multiple tables and tabs<br/> Zeros and problematic null values<br/>Colors to convey information<br/> 1 piece of information in a cell<br/> Problematic field names<br/> Special characters</td> 
+    <td>09:10</td>  
+    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Exercise on formatting mistakes in breakoutrooms</a></td>       
+    <td></td>
+    <td><a href="">Datatable for exercise</a></td>
   </tr>
   <tr> 
     <td>09:30</td>  
@@ -362,15 +364,32 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <col style="width:5%">
 	  <col style="width:30%">
 	  <col style="width:55%">
-      <tr> <td>10:00</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Introduction</a> and <a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Programming</a> in Python</td> <td>What is python? <a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands</a> (Git Joe Futrelle)</td> </tr>
-      <tr> <td>10:15</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">The Pandas package</a></td> <td>What is Pandas?<br/>Why should I use Pandas to work with data?</td> </tr>
-      <tr> <td>10:30</td>  <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Importing data, series and dataframes</a></td> <td>How do I import data<br/>What is a dataframe?</td> </tr>
-      <tr> <td>10:45</td>  <td>Break</td> <td>15 minute break</td> </tr>
+      <tr> 
+        <td>10:00</td>  
+        <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Introduction</a> and <a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Programming</a> in Python</td> 
+        <td>What is python? <a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands</a> (Git Joe Futrelle)</td> 
+        <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/01_Python%20Basics.ipynb">Notebook: Intro to python</a></td>
+      </tr>
+      <tr> 
+        <td>10:20</td>  
+        <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">The Pandas package</a></td>
+        <td>What is Pandas?<br/>How do I import data<br/>What is a dataframe?</td> </tr>
+        <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/02_Pandas_DataFrames_Series.ipynb">Notebook: Intro to Pandas</a></td>
+      <tr> 
+        <td>10:35</td>  
+        <td>Excercise</td> 
+        <td>How do I import data<br/>What is a dataframe?</td> 
+      </tr>
+      <tr> 
+        <td>10:45</td>  
+        <td>Break</td> 
+        <td>15 minute break</td> 
+      </tr>
   </table>
 
 <br> 
    
- <h3>Part 3. Exploring and manipulating your data</h3>
+ <h3>Part 3. Further manipulation of a data frame</h3>
   <table class="table table-striped">
     <col style="width:5%">
 	  <col style="width:30%">
