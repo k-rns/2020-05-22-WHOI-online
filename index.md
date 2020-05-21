@@ -327,8 +327,10 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
 <h3>Part 1. Preparing your table for python interpretation - Best practices</h3>
  <table class="table table-striped">
   <col style="width:5%">
+	<col style="width:20%">
 	<col style="width:30%">
-	<col style="width:55%">
+  <col style="width:30%">
+  <col style="width:10%">
    <tr> 
     <td>08:45</td>  
     <td>Introduction</td> 
@@ -336,24 +338,31 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
    </tr>
    <tr> 
      <td>09:00</td>  
-     <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Formatting data tables in Spreadsheets</a></td> 
+     <td>Formatting data tables in Spreadsheets</td> 
      <td>How do we format data in spreadsheets for effective data use?</td> 
+     <td></td>
+     <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html">Carpentries-data table </a></td>
   </tr>
   <tr> 
     <td>09:10</td>  
-    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Exercise on formatting mistakes in breakoutrooms</a></td>       
-    <td></td>
-    <td><a href="">Datatable for exercise</a></td>
+    <td>Excercise</td>       
+    <td>How can this table be improved to start analysis in python? Excercise in breakout rooms</td>
+    <td><a href="https://ndownloader.figshare.com/files/2252083">Datatable for exercise</a></td>
+    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html">Carpentries exercise and discussion </a></td>
   </tr>
   <tr> 
-    <td>09:30</td>  
+    <td>09:35</td>  
     <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Dates</a></td> 
     <td>Good approaches for handling dates in spreadsheets?</td> 
+    <td></td>
+    <td></td>
   </tr>
   <tr> 
     <td>09:45</td>  
     <td>Break</td> 
     <td>15 minute break</td> 
+    <td></td>
+    <td></td>
   </tr>
  </table>
  
