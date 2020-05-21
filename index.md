@@ -419,8 +419,13 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
    <tr> 
     <td>11:00</td>  
     <td>Exploration of dataframes</td> 
-    <td></td>
-    <td></td> 
+    <td>Sorting<br/>Unique values<br/>Logical conditions<br/>Summary statistics<br/>Groups<br/>Merging dataframes</td>
+    <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/03_Data_Manipulation.ipynb">Notebook: Further manipulation of a dataframe</a></td> 
+     <td>
+       <a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries: Statistics, groups and basic math</a>
+       <br/><a href="https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html">Carpentries: merging data</a>
+       <br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/05%20querying%20and%20merging%20dataframes.ipynb">Querying and mergin DFs, Notebook Joe Futrelle (WHOI)</a> 
+     </td> 
    </tr>
    <tr> 
      <td>11:30</td>  
