@@ -404,7 +404,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
         <td></td> 
         <td></td> 
       </tr>
-  </table>
+ </table>
 
 <br> 
    
