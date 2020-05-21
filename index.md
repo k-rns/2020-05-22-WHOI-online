@@ -357,7 +357,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <td>Date Notation</td> 
     <td>Good approaches for handling dates in spreadsheets</td> 
     <td></td>
-    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Carpentries: dates</a></td>
+    <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html">Carpentries: Dates</a></td>
   </tr>
   <tr> 
     <td>09:45</td>  
@@ -382,14 +382,14 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
         <td>Starting with Python</td> 
         <td>What is Python?<br/>Data types<br/>Mathematical operations<br/>Lists</td> 
         <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/01_Python%20Basics.ipynb">Notebook: Starting with Python</a></td>
-        <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Carpentries intro to Python I</a><br><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Carpentries intro to Python II</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands, Notebook Joe Futrelle, WHOI</a></td>
+        <td><a href="https://datacarpentry.org/python-ecology-lesson/00-before-we-start/index.html">Carpentries: Intro to Python I</a><br><a href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Carpentries: Intro to Python II</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/01%20introduction%20to%20python.ipynb">First commands, Notebook Joe Futrelle, WHOI</a></td>
     </tr>
     <tr> 
         <td>10:20</td>  
         <td>The Pandas Library</td>
         <td>What is Pandas?<br/>How do I import data<br/>What is a dataframe?<br/>How can I access specific data within my data set?</td>
         <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/02_Pandas_DataFrames_Series.ipynb">Notebook: The Pandas Library</a></td>
-        <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries:starting with data</a><br/><a href="https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html">Carpentries: Indexing, Slicing and Subsetting DataFrames in Python</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/04%20anatomy%20of%20a%20dataframe.ipynb">Anatomy of a DF, Notebook Joe Futrelle, WHOI</a></td>
+        <td><a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries: Starting with data</a><br/><a href="https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html">Carpentries: Indexing, Slicing and Subsetting DataFrames in Python</a><br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/04%20anatomy%20of%20a%20dataframe.ipynb">Anatomy of a DF, Notebook Joe Futrelle, WHOI</a></td>
     </tr> 
     <tr> 
         <td>10:35</td>  
@@ -423,7 +423,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
     <td><a href="https://github.com/k-rns/2020-05-22-WHOI-online/blob/gh-pages/data/03_Data_Manipulation.ipynb">Notebook: Further manipulation of a dataframe</a></td> 
      <td>
        <a href="https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html">Carpentries: Statistics, groups and basic math</a>
-       <br/><a href="https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html">Carpentries: merging data</a>
+       <br/><a href="https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html">Carpentries: Merging data</a>
        <br/><a href="https://github.com/WHOIGit/pandas-talk/blob/master/05%20querying%20and%20merging%20dataframes.ipynb">Querying and mergin DFs, Notebook Joe Futrelle, WHOI</a> 
      </td> 
    </tr>
