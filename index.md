@@ -479,7 +479,13 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
    </tr>
   </table>
 <br> 
-  
+<h3>Extras</h3> 
+<ul>
+  <li> <a href='http://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot'>Plotting</a></li>
+  <li> <a href='https://datatofish.com/export-dataframe-to-csv/'>Exporting dataframes</a></li>
+  <li> <a href='https://github.com/WHOIGit/pandas-talk/blob/master/07%20pandas%20handling%20time%20series%20data.ipynb'>Handling time series, Joe Futrelle, WHOI</a></li>
+  <li> <a href='http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3'>Python for data science cheat sheet</a></li>
+</ul>
 <hr/>
 
 {% comment %}
