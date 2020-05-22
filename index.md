@@ -479,7 +479,7 @@ This workshop is based on a few workshops developed by the Carpentries (See <a h
    </tr>
   </table>
 <br> 
-<h3>Extras</h3> 
+<h3>Part 4. Extras</h3> 
 <ul>
   <li> <a href='http://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot'>Plotting</a></li>
   <li> <a href='https://datatofish.com/export-dataframe-to-csv/'>Exporting dataframes</a></li>
